@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Mia.Common.ViewModels\Mia.Common.ViewModels.csproj" />
+    <ProjectReference Include="..\Mia.Common.ViewModels\Mia.Common.ViewModels.csproj" />
   </ItemGroup>
 
 </Project>
