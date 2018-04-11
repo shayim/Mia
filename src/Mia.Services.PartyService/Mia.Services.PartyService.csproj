@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Mia.Common.ViewModels\Mia.Common.ViewModels.csproj" />
+    <ProjectReference Include="..\Mia.Cargo.ViewModels\Mia.Cargo.ViewModels.csproj" />
+    <ProjectReference Include="..\Mia.Domain.Parties\Mia.Domain.Parties.csproj" />
+  </ItemGroup>
+
+</Project>
